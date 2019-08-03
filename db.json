@@ -1,6 +1,6 @@
 {
  “user”: {
-           “hii”: “hello”,
-           “hello”: “hii”,
+           hii: “hello”,
+           hello: “hii”,
           }
 }
